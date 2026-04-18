@@ -1,12 +1,16 @@
 # Hi, I'm Kobe 👋
 
-I work on **Agents & Agents Infra**. Currently at Stanford, based in Santa Clara.
+## 🚀 Currently Maintaining
 
-Most of what I build lives at the intersection of LLM serving, agent evaluation, and making long-running AI systems actually work in production.
+- **[Terminal Bench](https://github.com/harbor-framework/terminal-bench)** — Benchmark for LLMs on complex terminal tasks.
+- **[SkillsBench](https://github.com/benchflow-ai/skillsbench)** — Evaluating how well skills work and how effective agents are at using them.
+- **[LMCache](https://github.com/LMCache/LMCache)** — The fastest KV cache layer for LLMs.
+- **[OT Agent](https://github.com/open-thoughts/OpenThoughts-Agent)** — Open-source terminal agent from the Open Thoughts team.
+- **[ClawsBench](https://github.com/benchflow-ai/ClawsBench)** — Benchmark for claw-like agents.
 
 ---
 
-## 🚀 What I'm Working On
+## 🛠️ Other Projects
 
 ### Agents & Evaluation
 - **[Harbor](https://github.com/harbor-framework/harbor)** — Agent evaluation framework and RL environment toolkit. *Contributor.*
@@ -22,14 +26,3 @@ Most of what I build lives at the intersection of LLM serving, agent evaluation,
 ### Research & Exploration
 - **[VidGen](https://github.com/kobe0938/VidGen)** — Diffusion + autoregressive models for interactive video/game generation (Diffusive AI).
 - **[LAG](https://github.com/kobe0938/LAG)** — Research experiments.
-- **[docker-hub-star-tracker](https://github.com/kobe0938/docker-hub-star-tracker)** — Tracking Docker Hub pulls/stars over time.
-
----
-
-## 🛠️ OSS Maintainer
-
-- **[Terminal Bench](https://github.com/harbor-framework/terminal-bench)** — Benchmark for LLMs on complex terminal tasks.
-- **[SkillsBench](https://github.com/benchflow-ai/skillsbench)** — Evaluating how well skills work and how effective agents are at using them.
-- **[LMCache](https://github.com/LMCache/LMCache)** — The fastest KV cache layer for LLMs.
-- **OT Agent**
-- **[ClawsBench](https://github.com/benchflow-ai/ClawsBench)** — Benchmark for claw-like agents.
