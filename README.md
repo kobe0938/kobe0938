@@ -28,8 +28,10 @@ Most of what I build lives at the intersection of LLM serving, agent evaluation,
 
 ---
 
-## 📬 Reach Me
+## 🛠️ OSS Maintainer
 
-- ✉️ xiaokunchen0@gmail.com
-- 🌐 [Blog](https://github.com/kobe0938/blog)
-- 🐙 [github.com/kobe0938](https://github.com/kobe0938)
+- **[Terminal Bench](https://github.com/harbor-framework/terminal-bench)** — Benchmark for LLMs on complex terminal tasks.
+- **[SkillsBench](https://github.com/benchflow-ai/skillsbench)** — Evaluating how well skills work and how effective agents are at using them.
+- **[LMCache](https://github.com/LMCache/LMCache)** — The fastest KV cache layer for LLMs.
+- **OT Agent**
+- **[ClawsBench](https://github.com/benchflow-ai/ClawsBench)** — Benchmark for claw-like agents.
