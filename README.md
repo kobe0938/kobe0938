@@ -14,10 +14,12 @@
 
 ### Agents & Evaluation
 - **[Harbor](https://github.com/harbor-framework/harbor)** — Agent evaluation framework and RL environment toolkit. *Contributor.*
+- **[lmcache-agent-trace](https://github.com/LMCache/lmcache-agent-trace)** — Agent application, benchmark, and workload traces for LLM serving research.
 - **[claude-code-tracing](https://github.com/kobe0938/claude-code-tracing)** — Tracing tooling for Claude Code agent runs. [[blog]](https://huggingface.co/blog/kobe0938/context-engineering-reuse-pattern-claude-code)
 
 ### LLM Inference & Serving Infra
 - **[vLLM](https://github.com/vllm-project/vllm)** / **[production-stack](https://github.com/vllm-project/production-stack)** — High-throughput LLM inference engine and its K8s-native serving stack. *Contributor.*
+- **[inference-engine-arena](https://github.com/Inference-Engine-Arena/inference-engine-arena)** — Postman & Chatbot Arena for inference benchmarking. *(Open-sourced ~3 months before [SemiAnalysisAI/InferenceX](https://github.com/SemiAnalysisAI/InferenceX).)*
 - **[cacheserve](https://github.com/kobe0938/cacheserve)** — KV-cache-aware serving experiments. [[paper]](https://arxiv.org/abs/2512.14946)
 - **[lmcache-trace-analysis](https://github.com/kobe0938/lmcache-trace-analysis)** / **[mooncake-trace-replayer](https://github.com/kobe0938/mooncake-trace-replayer)** — Trace analysis & replay for inference workloads.
 
