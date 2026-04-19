@@ -1,6 +1,6 @@
 # Hi, I'm Kobe 👋
 
-## 🚀 Currently Maintaining
+## 🚀 Currently Maintaining/Contributing
 
 - **[Terminal Bench](https://github.com/harbor-framework/terminal-bench)** — Benchmark for LLMs on complex terminal tasks. [[paper]](https://arxiv.org/abs/2601.11868)
 - **[SkillsBench](https://github.com/benchflow-ai/skillsbench)** — Evaluating how well skills work and how effective agents are at using them. [[paper]](https://arxiv.org/abs/2602.12670)
@@ -23,5 +23,6 @@
 - **[lmcache-trace-analysis](https://github.com/kobe0938/lmcache-trace-analysis)** / **[mooncake-trace-replayer](https://github.com/kobe0938/mooncake-trace-replayer)** — Trace analysis & replay for inference workloads.
 
 ### Others
+- **[Continuum](https://github.com/Hanchenli/vllm-continuum)** — Multi-turn LLM agent scheduling with KV-cache time-to-live for efficient serving. *Contributor.* [[paper]](https://arxiv.org/abs/2511.02230)
 - **[VidGen](https://github.com/kobe0938/VidGen)** — Diffusion + autoregressive models for interactive video/game generation (Diffusive AI).
 - **[LAG](https://github.com/kobe0938/LAG)** — Research experiments.
