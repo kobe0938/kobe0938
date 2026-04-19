@@ -14,7 +14,7 @@
 
 ### Agents & Evaluation
 - **[Harbor](https://github.com/harbor-framework/harbor)** — Agent evaluation framework and RL environment toolkit. *Contributor.*
-- **[claude-code-tracing](https://github.com/kobe0938/claude-code-tracing)** — Tracing tooling for Claude Code agent runs.
+- **[claude-code-tracing](https://github.com/kobe0938/claude-code-tracing)** — Tracing tooling for Claude Code agent runs. [[blog]](https://huggingface.co/blog/kobe0938/context-engineering-reuse-pattern-claude-code)
 
 ### LLM Inference & Serving Infra
 - **[vLLM](https://github.com/vllm-project/vllm)** / **[production-stack](https://github.com/vllm-project/production-stack)** — High-throughput LLM inference engine and its K8s-native serving stack. *Contributor.*
