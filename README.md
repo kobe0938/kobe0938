@@ -10,12 +10,11 @@
 
 ---
 
-## 🛠️ Other Projects
+## 🛠️ Previous Projects
 
 ### Agents & Evaluation
 - **[Harbor](https://github.com/harbor-framework/harbor)** — Agent evaluation framework and RL environment toolkit. *Contributor.*
 - **[claude-code-tracing](https://github.com/kobe0938/claude-code-tracing)** — Tracing tooling for Claude Code agent runs.
-- **[citation-verifier](https://github.com/kobe0938/citation-verifier)** — Verifying citations produced by LLM agents (TypeScript).
 
 ### LLM Inference & Serving Infra
 - **[vLLM](https://github.com/vllm-project/vllm)** / **[production-stack](https://github.com/vllm-project/production-stack)** — High-throughput LLM inference engine and its K8s-native serving stack. *Contributor.*
@@ -26,3 +25,4 @@
 - **[Continuum](https://github.com/Hanchenli/vllm-continuum)** — Multi-turn LLM agent scheduling with KV-cache time-to-live for efficient serving. *Contributor.* [[paper]](https://arxiv.org/abs/2511.02230)
 - **[VidGen](https://github.com/kobe0938/VidGen)** — Diffusion + autoregressive models for interactive video/game generation (Diffusive AI).
 - **[LAG](https://github.com/kobe0938/LAG)** — Research experiments.
+- **[citation-verifier](https://github.com/kobe0938/citation-verifier)** — Verifying citations produced by LLM agents (TypeScript).
