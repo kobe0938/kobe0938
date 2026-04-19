@@ -3,10 +3,10 @@
 ## 🚀 Currently Maintaining
 
 - **[Terminal Bench](https://github.com/harbor-framework/terminal-bench)** — Benchmark for LLMs on complex terminal tasks.
-- **[SkillsBench](https://github.com/benchflow-ai/skillsbench)** — Evaluating how well skills work and how effective agents are at using them.
-- **[LMCache](https://github.com/LMCache/LMCache)** — The fastest KV cache layer for LLMs.
+- **[SkillsBench](https://github.com/benchflow-ai/skillsbench)** — Evaluating how well skills work and how effective agents are at using them. [[paper]](https://arxiv.org/abs/2602.12670)
+- **[LMCache](https://github.com/LMCache/LMCache)** — The fastest KV cache layer for LLMs. [[paper]](https://arxiv.org/abs/2510.09665)
 - **[OT Agent](https://github.com/open-thoughts/OpenThoughts-Agent)** — Open-source terminal agent from the Open Thoughts team. [[blog]](https://www.openthoughts.ai/blog/openthoughts-tblite)
-- **[ClawsBench](https://github.com/benchflow-ai/ClawsBench)** — Benchmark for claw-like agents.
+- **[ClawsBench](https://github.com/benchflow-ai/ClawsBench)** — Benchmark for claw-like agents. [[paper]](https://arxiv.org/abs/2604.05172)
 
 ---
 
