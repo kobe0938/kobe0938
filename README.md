@@ -2,7 +2,7 @@
 
 ## 🚀 Currently Maintaining/Contributing
 
-- **[Terminal Bench](https://github.com/harbor-framework/terminal-bench)** — Benchmark for LLMs on complex terminal tasks. [[paper]](https://arxiv.org/abs/2601.11868)
+- **[Harbor](https://github.com/harbor-framework/harbor)** — Agent evaluation framework and RL environment toolkit. [[paper]](https://arxiv.org/abs/2601.11868)
 - **[SkillsBench](https://github.com/benchflow-ai/skillsbench)** — Evaluating how well skills work and how effective agents are at using them. [[paper]](https://arxiv.org/abs/2602.12670)
 - **[LMCache](https://github.com/LMCache/LMCache)** — The fastest KV cache layer for LLMs. [[paper]](https://arxiv.org/abs/2510.09665)
 - **[OT Agent](https://github.com/open-thoughts/OpenThoughts-Agent)** — Open-source terminal agent from the Open Thoughts team. [[blog]](https://www.openthoughts.ai/blog/openthoughts-tblite) [[blog]](https://www.openthoughts.ai/blog/agent)
@@ -13,7 +13,7 @@
 ## 🛠️ Previous Projects
 
 ### Agents & Evaluation
-- **[Harbor](https://github.com/harbor-framework/harbor)** — Agent evaluation framework and RL environment toolkit. *Contributor.*
+- **[Terminal Bench](https://github.com/harbor-framework/terminal-bench)** — Benchmark for LLMs on complex terminal tasks. [[paper]](https://arxiv.org/abs/2601.11868)
 - **[lmcache-agent-trace](https://github.com/LMCache/lmcache-agent-trace)** — Agent application, benchmark, and workload traces for LLM serving research.
 - **[claude-code-tracing](https://github.com/kobe0938/claude-code-tracing)** — Tracing tooling for Claude Code agent runs. [[blog]](https://huggingface.co/blog/kobe0938/context-engineering-reuse-pattern-claude-code)
 
